@@ -1,0 +1,2 @@
+## Project Description
+This project is a console-based University Management System implemented in C++ using Object-Oriented Programming principles. The system manages students, professors, staff, and administrative operations through role-based functionality. It demonstrates core OOP concepts such as encapsulation, inheritance, polymorphism, and file handling within a single integrated program.
